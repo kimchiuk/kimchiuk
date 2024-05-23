@@ -6,7 +6,7 @@
 **웹 개발**에 관심있으며 현재 파이썬반 과정을 수료하고 있습니다.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimchiuk)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ddongpig)](https://solved.ac/ddongpig/)
 
 
 # 학업
